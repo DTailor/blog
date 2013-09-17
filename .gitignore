@@ -21,7 +21,6 @@ lib64
 # Installer logs
 pip-log.txt
 
-.idea
 
 # Unit test / coverage reports
 .coverage
@@ -35,3 +34,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+
+# Pycharm files
+.idea/
